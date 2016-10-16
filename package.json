@@ -1,0 +1,12 @@
+{
+  "name": "nodeMongoDB",
+  "private": true,
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^2.2.10"
+  }
+}
